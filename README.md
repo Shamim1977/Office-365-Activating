@@ -4,7 +4,7 @@
 
 <br>
 
-### 1. Turn Defender off
+### 1. Turn Defender off (optional)
 
 <br>
 
