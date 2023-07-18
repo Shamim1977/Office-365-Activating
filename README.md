@@ -63,5 +63,4 @@ cscript ospp.vbs /act
 
 Shamim Hossain<br>
 sparrowmtm@gmail.com<br>
-[https://sparrowtech.org](https://sparrowtech.org)<br>
-+880 1758900389
+[https://sparrowtech.org](https://sparrowtech.org)
